@@ -1,0 +1,21 @@
+{
+  "name": "app-salon-php-mvc-sass",
+  "version": "1.0.0",
+  "description": "AppSalon - Curso Desarrollo web Completo",
+  "author": "Juan De la torre @codigoconjuan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^11.0.3",
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.92.1",
+    "sharp": "^0.34.3"
+  }
+}
